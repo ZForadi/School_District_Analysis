@@ -135,16 +135,14 @@ From the above, it can be observed that:
 
 ### How does Replacing the Ninth Graders' Math and Reading Scores Affect Math and Reading Scores by Grade 
 
-Please see below the old per school math scores by grade.
+Please see below the old per school math and reading scores by grade, respectively. 
 ![Old_math_scores_by_grade](Old_math_scores_by_grade.png)
 
-Please see below the old per school reading scores by grade.
 ![Old_reading_scores_by_grade](Old_reading_scores_by_grade.png)
 
-Please see below the updated per school math scores by grade.
+Please see below the updated per school math and reading scores by grade, respectively. 
 ![New_math_scores_by_grade](New_math_scores_by_grade.png)
 
-Please see below the updated per school reading scores by grade.
 ![New_reading_scores_by_grade](New_reading_scores_by_grade.png)
 
 From the above, it can be observed that:
