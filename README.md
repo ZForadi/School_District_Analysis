@@ -23,7 +23,7 @@ Maria has reached out for help again to replace the math and reading scores for 
 
 The overall purpose of this analysis is to replace the ninth-grade reading and math schores for Thomas High School (THS) with NaNs and to repeat the school district analysis to observe how the change in the data has affected overall results, in comparison to the initial analysis. 
 
-## Resources Used in the County Analysis
+## Resources Used in the Analysis
 - Data Source: [schools_complete](Resources/schools_complete.csv) and [student_complete](Resources/students_complete.csv)
 - Software: Python 3.7, Jupyter Notebook
 - Dependencies: Pandas, NumPy
